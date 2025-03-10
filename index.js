@@ -46,7 +46,7 @@ const edges = new THREE.EdgesGeometry(geo);
 const edgesMaterial = new THREE.LineBasicMaterial({
     color: "#4294BD",   
     linewidth: 2,         
-    opacity: 0.33,         
+    opacity: 0.25,         
     transparent: true,   
     depthWrite: false
 });
